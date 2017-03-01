@@ -10,3 +10,5 @@ report：See PDF document
 Program：Run main.m
 
 Result: See result.mat, showing all stickman
+
+All test images in "buffy_s5e2_original"
